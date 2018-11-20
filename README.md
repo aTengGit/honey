@@ -1,2 +1,2 @@
 # honey
-just my first repository
+It's my first repository,i think it is very good!
